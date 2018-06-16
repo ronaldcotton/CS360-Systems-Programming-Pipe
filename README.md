@@ -8,7 +8,7 @@ Creating a pipe with connect, this program demonstrates the use of pipes, forks,
 *GNU C and GNU make*
 
 ### Executing
-```sh
+```
     make
     ./connect <program1> : <program2>
 ```
